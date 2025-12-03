@@ -24,6 +24,12 @@ body
         width:100px;
         border: solid 2px black;
     }
+    .parent:hover{
+    border: solid 2px green;
+    transition: 2s;
+    background-color: #caeccb;
+}
+    
 
 .parent{
     background-color:;
@@ -32,14 +38,21 @@ body
     justify-content: center;
     margin-left: 400px;
     margin-top:40px;
-    border: 2px solid black;
+    border: 2px solid#9c7135;
 
     padding-bottom: 10px;
     display: flex;
     border-radius: 10px;
     padding-top: none;
-    box-shadow: 17px 17px 2px rgb(83, 26, 83);
+    box-shadow: 5px 10px 3px #9c7135;
     }
+    .parent:hover{
+    box-shadow: 5px 10px 10px 2px #6d6c6c;
+    transition: 0.5s;
+    background-color: #e1f5e2;
+
+    }
+
     .btn{
     padding:8px 82px;
     border-radius: 50px;
