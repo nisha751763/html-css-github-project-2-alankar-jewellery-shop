@@ -68,15 +68,13 @@ body{
     border-radius:5px;
     box-shadow: 4px 5px 2px  #9c7135;
 }
+
    .text1{
     text-align: center;
     color:#fa970d;
     font-size: 36px;
 }
-    p1{
-    text-align: center;
- }
-
+  
     .parent-2{
   display:flex; 
  }
