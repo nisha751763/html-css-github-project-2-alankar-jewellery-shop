@@ -194,56 +194,46 @@ body {
     width: 300px;
     cursor: pointer;
 }
-
 .slide-img:hover {
     transform: scale(0.9);
     z-index: 2;
     transition: 0.3s;
     box-shadow: 0 0 15px 9px #c2c2a3;
 }
-
 .heading-font {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-
 .pragraph-text {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-
 .video {
     height: 500px;
     width: 100%;
 }
-
 .paragraph-img {
     height: 550px;
     width: 550px;
     box-shadow: 13px 15px 9px 3px #c2c2a3;
     cursor: pointer;
 }
-
 .paragraph-img:hover {
     transform: scale(0.9);
     z-index: 2;
     transition: 0.3s;
     box-shadow: 0 0 15px 9px #c2c2a3;
 }
-
 /*- card css */
 .icon {
     height: 150px;
 }
-
 .card {
     box-shadow: 10px 10px 20px 2px #e1dcd0;
     padding: 4px;
     cursor: pointer;
 }
-
 .card:hover {
     border: 1px solid #e8af3e;
 }
-
 .color {
     color: #e88d3e;
 }
