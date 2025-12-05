@@ -90,9 +90,15 @@ body {
 
 .paregraf {
     text-align: center;
+    color:#e8e8ee;
     font-size: 20px;
 }
 
+.paregraf1 {
+    text-align: center;
+    color:#0b0b0e;
+    font-size: 20px;
+}
 .text3 {
     color: #03203A;
     text-decoration: none;
